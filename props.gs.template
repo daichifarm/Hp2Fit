@@ -1,7 +1,7 @@
 
 const SCALE_MODEL = "BC-333L";
 
-const HEALTHPLANET_API_CLIENT_ID = "*****";
+const HEALTHPLANET_API_CLIENT_ID = "*aaa****";
 const HEALTHPLANET_API_CLIENT_SECRET = "*****";
 
 const GOOGLE_API_CLIENT_ID = "*****";
